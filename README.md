@@ -25,4 +25,7 @@ c) secondary KP1s - total casualities with respect to vehicle type.
 ## Dataset
 <a href = "https://github.com/PraxidesNandi/Road-Accidents-Dashboard/blob/master/Road%20Accident%20Data.xlsx"> Dataset </a>
 
+## Dashboard
+<a href = "https://github.com/PraxidesNandi/Road-Accidents-Dashboard/blob/master/road%20Accident%20Dashboard.png"> Dashboard </a>
+
 
