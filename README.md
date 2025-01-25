@@ -9,4 +9,14 @@ c) secondary KP1s - total casualities with respect to vehicle type.
 - maximum casualities by road type
 - distribution of total casualities by road surface
 -relationship between casualities by Area/location & by Day/Night
+## Stakeholders
+-ministry of transport
+-road transport department
+-police force
+-Emergency services Department
+-Road safety corps
+-transport operators
+-Traffic Management Agencies
+-public
+-media
 
